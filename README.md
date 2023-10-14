@@ -40,6 +40,8 @@ define("USE_SPECIFIED", 0);
 define("USE_ALL_DEVICES", 1);
 define("USE_ALL_SIMS", 2);
 
+require vendor/autoload.php;
+
 2. Use Irteel\PhpSmsgw namespace in your php file
 
   use Irteel\PhpSmsgw;
