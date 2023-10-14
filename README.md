@@ -30,9 +30,8 @@ composer require irteel/php-smsgw
 ```php
 PHP Integration
 
-1. Setup config file in src directory
+1. Setup config file define all constants
 
-PHP Integration
 Include following code in your PHP file to start sending messages.
 define("SERVER", "https://smsgw.irteel.com");  ## Server URL
 define("API_KEY", "klmc81eb642f20f1ccc4ed03a32939582ff3bb058"); ## Enter the API_KEY from your developer panel
