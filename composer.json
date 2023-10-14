@@ -1,0 +1,42 @@
+{
+    "name": "irteel/php-smsgw",
+    "description": "Use your Android phone as irteel SMS Gateway",
+    "keywords": [
+        "irteel",
+        "php-smsgw"
+    ],
+    "homepage": "https://github.com/irteel/php-smsgw",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Cyrille Bekono",
+            "email": "cyrille.bidongo@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Irteel\\Smsgw\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Irteel\\Smsgw\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
