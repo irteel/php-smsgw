@@ -1,6 +1,6 @@
 <?php
 
-namespace Irteel\PhpSmsgw;
+namespace Irteel\Smsgw;
 
 class PhpSmsgw
 {
