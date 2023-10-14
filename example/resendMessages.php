@@ -1,6 +1,8 @@
 <?php
 include '../src/config.php';
-include '../src/PhpSmsgw.php';
+require '../src/PhpSmsgw.php';
+
+use Irteel\Smsgw\PhpSmsgw;
 
 
 try {
