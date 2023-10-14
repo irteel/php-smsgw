@@ -1,4 +1,4 @@
-# Very short description of the package
+# irteel Android Phone SMS Gateway
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/irteel/php-smsgw.svg?style=flat-square)](https://packagist.org/packages/irteel/php-smsgw)
 [![Total Downloads](https://img.shields.io/packagist/dt/irteel/php-smsgw.svg?style=flat-square)](https://packagist.org/packages/irteel/php-smsgw)
