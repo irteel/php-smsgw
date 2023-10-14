@@ -34,7 +34,7 @@ PHP Integration
 
 Include following code in your PHP file to start sending messages.
 define("SERVER", "https://smsgw.irteel.com");  ## Server URL
-define("API_KEY", "klmc81eb642f20f1ccc4ed03a32939582ff3bb058"); ## Enter the API_KEY from your developer panel
+define("API_KEY", "klmc81eb642f20f1ccc4ed03a32939582ff3bb058"); ## Enter the API_KEY from your developper panel
 
 define("USE_SPECIFIED", 0);
 define("USE_ALL_DEVICES", 1);
