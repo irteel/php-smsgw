@@ -6,7 +6,7 @@
 
 With this application you can easily turn your mobile phone into the SMS Gateway for your applications.
  
-You will get Admin Panel and Android application with this package. Admin Panel keeps track of all messages you sent using this API and Android application turns your mobile into SMS Gateway. All the requests that you send will be first stored in Server using Admin Panel and then it will be handed over to the Android application. The android application sends the SMS according to the request and reports the status of the messages to the Admin Panel.
+You will get Admin Panel and Android application with this package. Admin Panel keeps track of all messages you sent using this API and Android application turns your mobile into SMS Gateway. All the requests that you send will be first stored in Server using Admin Panel on https://smsgw.irteel.com and then it will be handed over to the Android application. The android application sends the SMS according to the request and reports the status of the messages to the Admin Panel.
  
 Features
  
