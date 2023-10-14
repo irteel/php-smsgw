@@ -30,7 +30,7 @@ composer require irteel/php-smsgw
 ```php
 PHP Integration
 
-1. Setup config file define all constants
+1. Setup config file or define all constants
 
 Include following code in your PHP file to start sending messages.
 define("SERVER", "https://smsgw.irteel.com");  ## Server URL
